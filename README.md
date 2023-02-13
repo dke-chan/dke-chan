@@ -1,4 +1,6 @@
-### Hi there 👋
+### DATAX121 Lecture Slides
+
+- [Paper outline summary](https://dke-chan.github.io/DATAX121/T00-Introduction.html)
 
 <!--
 **dke-chan/dke-chan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
