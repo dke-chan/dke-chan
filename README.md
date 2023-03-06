@@ -2,6 +2,7 @@
 
 - [Paper outline summary](https://dke-chan.github.io/DATAX121/T00-Introduction.html)
 - [Summarising data](https://dke-chan.github.io/DATAX121/T01-Exploring-Data.html)
+- [Data collection methods](https://dke-chan.github.io/DATAX121/T02-Data-Collection.html)
 
 <!--
 **dke-chan/dke-chan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
