@@ -4,6 +4,7 @@
 - [Summarising data](https://dke-chan.github.io/DATAX121/T01-Exploring-Data.html)
 - [Data collection methods](https://dke-chan.github.io/DATAX121/T02-Data-Collection.html)
 - [Introduction to statistical inference](https://dke-chan.github.io/DATAX121/T03-Introduction-to-Statisitical-Inference.html)
+- [Introduction to hypothesis testing](https://dke-chan.github.io/DATAX121/T04A-Introduction-to-Hypothesis-Testing)
 
 <!--
 **dke-chan/dke-chan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
