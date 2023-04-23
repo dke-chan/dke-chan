@@ -6,6 +6,8 @@
 - [Introduction to statistical inference](https://dke-chan.github.io/DATAX121/T03-Introduction-to-Statisitical-Inference.html)
 - [Introduction to hypothesis testing](https://dke-chan.github.io/DATAX121/T04A-Introduction-to-Hypothesis-Testing.html)
 - [Inference for a difference in means: Two-sample t-test](https://dke-chan.github.io/DATAX121/T04B-Two-Sample-t-Test.html)
+- [Inference for the mean of paired
+differences: Paired t-test](https://dke-chan.github.io/DATAX121/T04C-Paired-t-Test.html)
 
 <!--
 **dke-chan/dke-chan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
