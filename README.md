@@ -8,7 +8,8 @@
 - [Inference for a difference in means: Two-sample t-test](https://dke-chan.github.io/DATAX121/T04B-Two-Sample-t-Test.html)
 - [Inference for the mean of paired
 differences: Paired t-test](https://dke-chan.github.io/DATAX121/T04C-Paired-t-Test.html)
-- [Inference for a proportion: Paired t-test](https://dke-chan.github.io/DATAX121/T05A-Proportions-and-z-Test.html)
+- [Inference for a proportion](https://dke-chan.github.io/DATAX121/T05A-Proportions-and-z-Test.html)
+- [Inference for a difference between proportions](https://dke-chan.github.io/DATAX121/T05B-Difference-in-Proportions.html)
 
 <!--
 **dke-chan/dke-chan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
