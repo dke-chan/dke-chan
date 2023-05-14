@@ -10,6 +10,7 @@
 differences: Paired t-test](https://dke-chan.github.io/DATAX121/T04C-Paired-t-Test.html)
 - [Inference for a proportion](https://dke-chan.github.io/DATAX121/T05A-Proportions-and-z-Test.html)
 - [Inference for a difference between proportions](https://dke-chan.github.io/DATAX121/T05B-Difference-in-Proportions.html)
+- [One-way analysis of variance: The F-test](https://dke-chan.github.io/DATAX121/T06A-The-F-Test.html)
 
 <!--
 **dke-chan/dke-chan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
