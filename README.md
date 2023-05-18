@@ -12,6 +12,8 @@
 - [One-way analysis of variance: The F-test](https://dke-chan.github.io/DATAX121/T06A-The-F-Test.html)
 - [One-way analysis of variance: Multiple comparisons](https://dke-chan.github.io/DATAX121/T06B-Multiple-Comparisons.html)
 - [One-way analysis of variance: Diagnostics and Exemplar 9.1](https://dke-chan.github.io/DATAX121/T06C-Diagnostics-and-Exemplar.html)
+- [Linear regression: From scatter plots to a line for averages](https://dke-chan.github.io/DATAX121/T07A-Scatter-plots-to-lines-for-averages.html)
+
 
 <!--
 **dke-chan/dke-chan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
