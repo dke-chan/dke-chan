@@ -15,6 +15,7 @@
 - [Linear regression: From scatter plots to a line for averages](https://dke-chan.github.io/DATAX121/T07A-Scatter-plots-to-lines-for-averages.html)
 - [Linear regression: Inference with regresssion models](https://dke-chan.github.io/DATAX121/T07B-Inference-with-regression.html)
 - [Linear regression: Prediction with regression models](https://dke-chan.github.io/DATAX121/T07C-Prediction.html)
+- [Linear regression: Diagnostics and Exemplar 10.3](https://dke-chan.github.io/DATAX121/T07D-Diagnostics-and-Exemplar.html)
 
 <!--
 **dke-chan/dke-chan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
